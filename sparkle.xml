@@ -1,26 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>Sparkle Test App Changelog</title>
-    <link>https://github.com/jb-apps/SpeedLockApp/blob/main/sparkle.xml</link>
-    <description>Most recent changes with links to updates.</description>
-    <language>en</language>
-      <item>
-        <title>Version 1.0</title>
-        <link>https://www.speedcut.app/</link>
-        <sparkle:version>1.0</sparkle:version>
-        <description>
-          <![CDATA[
-            <ul>
-              <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</li>
-              <li>Suspendisse sed felis ac ante ultrices rhoncus. Etiam quis elit vel nibh placerat facilisis in id leo.</li>
-              <li>Vestibulum nec tortor odio, nec malesuada libero. Cras vel convallis nunc.</li>
-              <li>Suspendisse tristique massa eget velit consequat tincidunt. Praesent sodales hendrerit pretium.</li>
-            </ul>
-          ]]>
-        </description>
-        <pubDate>Wed, 18 May 2022 21:26:00 +0000</pubDate>
-        <enclosure url="https://github.com/jb-apps/SpeedLockApp/blob/main/SpeedLock.zip" length="107758" type="application/octet-stream" sparkle:edSignature="7cLALFUHSwvEJWSkV8aMreoBe4fhRa4FncC5NoThKxwThL6FDR7hTiPJh1fo2uagnPogisnQsgFgq6mGkt2RBw==" />
-      </item>
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SpeedLock</title>
+        <item>
+            <title>1.1</title>
+            <pubDate>Wed, 18 May 2022 22:52:36 +0200</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jb-apps/SpeedLockApp/blob/main/SpeedLock.zip" length="22137805" type="application/octet-stream"/>
+        </item>
+    </channel>
 </rss>

@@ -4,11 +4,11 @@
         <title>SpeedLock</title>
         <item>
             <title>1.1</title>
-            <pubDate>Wed, 18 May 2022 23:34:46 +0200</pubDate>
-            <sparkle:version>2</sparkle:version>
+            <pubDate>Thu, 19 May 2022 21:31:14 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jb-apps/SpeedLockApp/blob/main/SpeedLock.zip" length="22137138" type="application/octet-stream" sparkle:edSignature="7nerwrCtbR6DEnPPt5kRUrBchOp4jUMc8kLRIQLKsue95wHtzhR1h4kgmssN/+ys2Bm8ERt1/TAFeNnTnmu7Ag=="/>
+            <enclosure url="https://github.com/jb-apps/SpeedLockApp/raw/main/SpeedLock.zip" length="22137516" type="application/octet-stream" sparkle:edSignature="j/ZxUA84t8w5qtgNU/RNt/pVDUcdZn6JIJROUMTstS+Q3LMVL2Xmv+dJ9zVbQSlACyIZCxBIE5BW/H28M82nBg=="/>
         </item>
     </channel>
 </rss>
